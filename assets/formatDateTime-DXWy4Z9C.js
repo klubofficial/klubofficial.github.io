@@ -1,0 +1,1 @@
+const c=t=>{const o=t.getFullYear().toString().split("").slice(2).join(""),n=t.getMonth()+1,e=t.getDate(),s=t.getHours(),r=t.getMinutes();return`${o}.${n}.${e} ${s}:${r}`},a=t=>t?t.toLocaleDateString():"-";export{c as a,a as f};
