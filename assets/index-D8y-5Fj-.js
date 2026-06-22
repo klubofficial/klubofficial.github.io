@@ -1,0 +1,1 @@
+import{u as r,j as i}from"./index-DC6gBPue.js";import{C as a}from"./Chip-D-gKBLWk.js";const p=e=>{const s=r(),t=e.year.toString().slice(2),o=e.semester==="SPRING"?"1":"2";return i.jsx(a,{label:`${t}-${o}`,size:"small",sx:{borderRadius:"16px",fontSize:s.typography.body2.fontSize,fontWeight:500}})};export{p as S};
