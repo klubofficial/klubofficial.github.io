@@ -1,1 +1,0 @@
-import{u as s,j as r,b as t,T as a}from"./index-DLcIU1m3.js";const i=({children:o})=>{const e=s();return r.jsx(t,{sx:{display:"flex",flexDirection:"row",justifyContent:"center",backgroundColor:e.colors.error.lighter,mb:2,p:2,borderRadius:1},children:r.jsx(a,{variant:"body2",fontWeight:"bold",children:o})})};export{i as E};
