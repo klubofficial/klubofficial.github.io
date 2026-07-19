@@ -1,1 +1,0 @@
-import{ak as a,j as r,al as t}from"./index-BdZ7OhH3.js";var e={},u=t;Object.defineProperty(e,"__esModule",{value:!0});var l=e.default=void 0,o=u(a()),v=r,d=(0,o.default)((0,v.jsx)("path",{d:"M21 19V5c0-1.1-.9-2-2-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2zM8.5 13.5l2.5 3.01L14.5 12l4.5 6H5l3.5-4.5z"}),"Image");l=e.default=d;export{l as d};
