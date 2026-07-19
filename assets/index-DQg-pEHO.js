@@ -1,1 +1,0 @@
-import{u as i,a as p,j as e,b as t,C as o,bh as n}from"./index-BNfy6MeY.js";const u=({children:s})=>{const a=i(),r=p(a.breakpoints.up("lg"));return e.jsx(t,{className:"MuiPageTitle-wrapper",padding:r?3:1,children:e.jsx(o,{maxWidth:"lg",children:s})})};u.propTypes={children:n.node.isRequired};export{u as P};
