@@ -1,1 +1,0 @@
-import{ak as a,j as r,al as t}from"./index-TZAL6GBy.js";var e={},u=t;Object.defineProperty(e,"__esModule",{value:!0});var o=e.default=void 0,v=u(a()),l=r,d=(0,v.default)((0,l.jsx)("path",{d:"M5 20h14v-2H5v2zm0-10h4v6h6v-6h4l-7-7-7 7z"}),"Upload");o=e.default=d;export{o as d};
